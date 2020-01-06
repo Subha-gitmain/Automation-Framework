@@ -18,11 +18,12 @@ import com.CRMVTiger.ObjectReposetary.Home;
 public class TC01Test extends BaseClass{
 	
 	
+	/*  this is for create contact contact validation page*/
 	@Test
 	public void create_Contact_ValidData() throws Throwable
 	{
 
-		
+		 
 		/*Home page displayed validation*/
 		String expt=("Home");
 		
@@ -33,6 +34,8 @@ public class TC01Test extends BaseClass{
 		/*Validation using assert*/
 		Assert.assertEquals(expt, act);
 		Reporter.log("Home Validation succesfully", true);
+		
+		System.out.println("validation done");
 		
 		/*Implicitlywait is used*/
 		WebDriverCommonUtils.implicitelyWait();

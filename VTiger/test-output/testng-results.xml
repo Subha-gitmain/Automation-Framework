@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Validation Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Home Validation succesfully]]>
+    </line>
+    <line>
+      <![CDATA[click Button]]>
+    </line>
+    <line>
+      <![CDATA[Creating contact successfully]]>
+    </line>
+    <line>
+      <![CDATA[Inpudata driven from excell]]>
+    </line>
+    <line>
+      <![CDATA[Input Lastname successfully]]>
+    </line>
+    <line>
+      <![CDATA[Click on radiobutton successfully ]]>
+    </line>
+    <line>
+      <![CDATA[Putting data in dropdown successfully]]>
+    </line>
+    <line>
+      <![CDATA[Save successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48990" started-at="2020-01-06T09:24:31Z" finished-at="2020-01-06T09:25:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48990" started-at="2020-01-06T09:24:31Z" finished-at="2020-01-06T09:25:20Z">
+      <class name="com.CRMVTiger.contact.TC01Test">
+        <test-method status="PASS" signature="lunchBroser()[pri:0, instance:com.CRMVTiger.contact.TC01Test@6093dd95]" name="lunchBroser" is-config="true" duration-ms="5068" started-at="2020-01-06T09:24:31Z" finished-at="2020-01-06T09:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchBroser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.CRMVTiger.contact.TC01Test@6093dd95]" name="login" is-config="true" duration-ms="8180" started-at="2020-01-06T09:24:36Z" finished-at="2020-01-06T09:24:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Validation Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="create_Contact_ValidData()[pri:0, instance:com.CRMVTiger.contact.TC01Test@6093dd95]" name="create_Contact_ValidData" duration-ms="32683" started-at="2020-01-06T09:24:44Z" finished-at="2020-01-06T09:25:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Home Validation succesfully]]>
+            </line>
+            <line>
+              <![CDATA[click Button]]>
+            </line>
+            <line>
+              <![CDATA[Creating contact successfully]]>
+            </line>
+            <line>
+              <![CDATA[Inpudata driven from excell]]>
+            </line>
+            <line>
+              <![CDATA[Input Lastname successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click on radiobutton successfully ]]>
+            </line>
+            <line>
+              <![CDATA[Putting data in dropdown successfully]]>
+            </line>
+            <line>
+              <![CDATA[Save successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- create_Contact_ValidData -->
+        <test-method status="PASS" signature="logoutAM()[pri:0, instance:com.CRMVTiger.contact.TC01Test@6093dd95]" name="logoutAM" is-config="true" duration-ms="2321" started-at="2020-01-06T09:25:17Z" finished-at="2020-01-06T09:25:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAM -->
+        <test-method status="PASS" signature="closeBrowserAC()[pri:0, instance:com.CRMVTiger.contact.TC01Test@6093dd95]" name="closeBrowserAC" is-config="true" duration-ms="714" started-at="2020-01-06T09:25:19Z" finished-at="2020-01-06T09:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowserAC -->
+      </class> <!-- com.CRMVTiger.contact.TC01Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

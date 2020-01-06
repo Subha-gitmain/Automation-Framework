@@ -22,8 +22,9 @@ public class TC01Test extends BaseClass{
 	@Test
 	public void create_Contact_ValidData() throws Throwable
 	{
-
-		 
+System.out.println("hiushdhuksdchhh");
+		System.out.println("ghh");
+		System.out.println("ghh");
 		/*Home page displayed validation*/
 		String expt=("Home");
 		

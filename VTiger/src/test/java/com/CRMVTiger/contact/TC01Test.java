@@ -102,7 +102,7 @@ public class TC01Test extends BaseClass{
 			assertEquals(exptNewContact, actnewContact);
 			Reporter.log("Newcontact validation successfully", true);*/
 		System.out.println("hhhhhhh");
-		
+		System.out.println("updation2");
 	
 	
 		

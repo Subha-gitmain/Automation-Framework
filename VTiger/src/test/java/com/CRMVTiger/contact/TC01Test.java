@@ -95,7 +95,7 @@ System.out.println("hiushdhuksdchhh");
 			/*Click save Button*/
 			createCon.getSaveButton();
 			Reporter.log("Save successfully",true);
-			System.out.println("asdadasdadasd");
+			System.out.println("asdadasdadggfhasd");
 			
 			/*Validation of new contact is dispalyed*/
 			/*String exptNewContact="Contact Information";

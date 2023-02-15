@@ -96,6 +96,8 @@ System.out.println("hiushdhuksdchhh");
 			createCon.getSaveButton();
 			Reporter.log("Save successfully",true);
 			System.out.println("asdadasdadggfhasd");
+			System.out.println("Message-1");
+			System.out.println("Message-2");
 			
 			/*Validation of new contact is dispalyed*/
 			/*String exptNewContact="Contact Information";
